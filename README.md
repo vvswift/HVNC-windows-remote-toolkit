@@ -3,6 +3,12 @@
 > A stealth first remote-administration framework that spins up an invisible Windows desktop in memory and lets you drive it like a regular VNC session—only without the tell-tale screen flicker or user-side pop-ups.  
 > Built for red-team operators who need eyes-on-glass access with the subtlety of a ghost.
 
+## 🚫 Disclaimer
+
+This repository is provided for educational purposes only and intended for authorized security research.
+Any unauthorized use — including but not limited to illicit surveillance, system compromise, or privacy invasion is strictly prohibited.
+
+
 ---
 
 ## Repository Layout
@@ -127,10 +133,5 @@ In short: you get a full UI foothold with the stealth of a backdoor shell.
 Yes, theres more on the roadmap: TLS tunneling, clipboard sync, multi-monitor capture watch the commits!
 
 ---
-
-## 🚫 Disclaimer
-
-This repository is provided for educational purposes only and intended for authorized security research.
-Any unauthorized use — including but not limited to illicit surveillance, system compromise, or privacy invasion is strictly prohibited.
 
 
